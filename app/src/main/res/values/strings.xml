@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="tar_image_cd">star</string>
+    <string name="my_name">Steven Yang</string>
+    <string name="bio_text">asdadsgdsa\n\n
+    adsfgsghgbfsjadgfhnsaod\n
+    sdHB FHDb fs BIDbsi uihsaDH IUHUI HDOIUF HUHdsuohf \N\n
+    adsfnisdbGFBIUDSiugaiudsgoui ouidas ufihasdioufg hiosd IUOHGDOSIUSH IOUGSHGAIOU Hioush go\n
+    asdkjbfgasdnkgbaskdbgjadfsbgougsd jnsdijG OADGS BOADGS \n\n
+    adsfgsghgbfsjadgfhnsaod\n
+    sdHB FHDb fs BIDbsi uihsaDH IUHUI HDOIUF HUHdsuohf \N\n
+    adsfnisdbGFBIUDSiugaiudsgoui ouidas ufihasdioufg hiosd IUOHGDOSIUSH IOUGSHGAIOU Hioush go\n
+    asdkjbfgasdnkgbaskdbgjadfsbgougsd jnsdijG OADGS BOADGS \n\n
+    adsfgsghgbfsjadgfhnsaod\n
+    sdHB FHDb fs BIDbsi uihsaDH IUHUI HDOIUF HUHdsuohf \N\n
+    adsfnisdbGFBIUDSiugaiudsgoui ouidas ufihasdioufg hiosd IUOHGDOSIUSH IOUGSHGAIOU Hioush go\n
+    asdkjbfgasdnkgbaskdbgjadfsbgougsd jnsdijG OADGS BOADGS \n\n
+    adsfgsghgbfsjadgfhnsaod\n
+    sdHB FHDb fs BIDbsi uihsaDH IUHUI HDOIUF HUHdsuohf \N\n
+    adsfnisdbGFBIUDSiugaiudsgoui ouidas ufihasdioufg hiosd IUOHGDOSIUSH IOUGSHGAIOU Hioush go\n
+    asdkjbfgasdnkgbaskdbgjadfsbgougsd jnsdijG OADGS BOADGS \n\n
+    dsafjhbu uyadsgf yuadisy.</string>
+    <string name="button_text">Done</string>
+    <string name="edit_text_hint">What is your Nickname?</string>
+</resources>
